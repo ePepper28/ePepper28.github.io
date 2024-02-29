@@ -1,0 +1,75 @@
+#background{
+    background-color:rgb(207, 235, 207);
+}
+#head1{
+    background-color:green;
+    border-style:dashed;
+    color:ghostwhite;
+}
+h2{
+    background-color: lightgreen;
+}
+#background2{
+    background-color: rgb(70, 241, 241); 
+}
+#head2{
+    background-color:aqua;
+    border-style:dashed;
+    color:ghostwhite;
+}
+#head3{
+    background-color:red;
+    border-style:dashed;
+    color:ghostwhite;
+}
+#background3{
+    background-color:lightcoral;
+}
+#definition3{
+    background-color: rgb(232, 238, 144);
+}
+#h3overfishing{
+    background-color:aquamarine;
+}
+#environmentalcrises{
+    background-color:green;
+    border-style:groove; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#background4{
+    background-color:blueviolet;
+}
+#head4{
+    background-color:blueviolet;
+    border-style:dashed;
+    color:ghostwhite;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    width: 450px;
+    border-style:ridge;
+    border-color:darkgreen;
+}
+#definition{
+    background-color:green;
+    border-style:dotted;
+}
+#pollutiontypes{
+    font-style:italic;
+}
+footer{
+    background-color:powderblue;
+}
+#mainpage{
+    background-color:rgb(106, 236, 106)
+}
+#environmentdefinition{
+    background-color:rgb(123, 232, 164);
+}
+nav{
+    background-color:darkseagreen
+}
+
+#background5{
+    background-color:rgb(200, 244, 157)
+}
